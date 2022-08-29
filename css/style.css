@@ -19,6 +19,18 @@ html{
     background-color: #ffff00;
 }
 
+.small-font{
+    font-size: 15px;
+}
+
+.big-font{
+    font-size: 40px;
+}
+
+.medium-font{
+    font-size: 20px;
+}
+
 /* HEADER */
 header{
     height: 100px;
@@ -38,22 +50,15 @@ header img{
 /* MAIN */
 
 /* Titolo e scrittore */
-section h1{
-    font-size: 40px;
-}
 
 .informazioni{
     color: #858585;
-    font-size: 18px;
 }
 
 #scrittore{
     color: #4ea0ff;
 }
 
-#data{
-    font-size: 12px;
-}
 /* /Titolo e scrittore */
 
 
