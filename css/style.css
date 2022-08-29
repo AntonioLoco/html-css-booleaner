@@ -67,4 +67,27 @@ ul{
     padding-left: 20px;
 }
 
+/* Tabella Info */
+table{
+    padding-top: 20px;
+    width: 100%;
+}
+
+thead{
+    background-color: #20a9e5;
+    color:#fff;
+    text-align: left;
+}
+
+tbody td{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #b1e5f2;
+}
+
+.white{
+    background-color: #fff;
+}
+
+
 
