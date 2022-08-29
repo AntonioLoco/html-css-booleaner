@@ -10,7 +10,8 @@ html{
     font-size: 20px;
 }
 
-.container{
+.container, 
+.logo{
     width: 98%;
     margin: 0 auto;
 }
@@ -41,7 +42,6 @@ header{
 header img{
     width: 200px;
     padding-top: 50px;
-    padding-left: 10px;
 }
 
 /* MAIN */
