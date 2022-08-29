@@ -6,22 +6,32 @@
 }
 
 /* COMMON */
+html{
+    font-size: 16px;
+}
+
+.container{
+    width: 98%;
+    margin: 0 auto;
+}
 .highlighter{
     background-color: #ffff00;
 }
 
 /* HEADER */
 header{
-    height: 150px;
+    height: 100px;
     background-color:#4ea0ff;
     background-image: url("../img/pattern.png");
-    background-size: auto;
+    background-size: 400px;
     background-repeat: repeat;
     background-position: top;
 }
 
 header img{
-    width: 250px;
-    padding-top: 75px;
+    width: 200px;
+    padding-top: 50px;
     padding-left: 10px;
 }
+
+/* MAIN */
