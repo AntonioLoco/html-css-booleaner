@@ -73,6 +73,10 @@ table{
     width: 100%;
 }
 
+th{
+    padding-right: 80px;
+}
+
 thead{
     background-color: #20a9e5;
     color:#fff;
@@ -89,5 +93,36 @@ tbody td{
     background-color: #fff;
 }
 
+/* FOOTER */
+footer{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.titolo{
+    color: #808080;
+}
+
+.immagine-footer{
+    width: 220px;
+    height: 150px;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.immagine-footer span{
+    color: #ffff;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+#monitor{
+    background-image: url("../img/monitor.jpg");
+}
+
+#graph{
+    background-image: url("../img/graph.jpg");
+}
 
 
