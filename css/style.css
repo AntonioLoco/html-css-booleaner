@@ -14,6 +14,7 @@ html{
     width: 98%;
     margin: 0 auto;
 }
+
 .highlighter{
     background-color: #ffff00;
 }
@@ -35,3 +36,24 @@ header img{
 }
 
 /* MAIN */
+
+/* Titolo e scrittore */
+section h1{
+    font-size: 40px;
+}
+
+.informazioni{
+    color: #858585;
+    font-size: 18px;
+}
+
+#scrittore{
+    color: #4ea0ff;
+}
+
+#data{
+    font-size: 12px;
+}
+/* /Titolo e scrittore */
+
+
